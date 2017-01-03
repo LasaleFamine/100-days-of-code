@@ -28,3 +28,16 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 0: January 3, 2016
+
+**Today's Progress**: Start re-developing my personal website with [nextjs](https://github.com/zeit/next.js).
+
+**Thoughts:** Really excited. I know something about the universal js used by next.js and I really want to know more about.  
+Currently the experience is pretty good.
+I'm developing kinda a static website for know, without the use of React.  
+I'm also making some experiments with CSS animations.
+
+**Link to work:**  
+- [GitHub](https://github.com/lasalefamine/godev.space)
+- [Demo (dev)](https://godevspace-cajaozvpyb.now.sh/)
