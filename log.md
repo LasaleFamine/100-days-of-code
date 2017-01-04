@@ -29,7 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-### Day 0: January 3, 2016
+### Day 0: January 3, 2017
 
 **Today's Progress**: Start re-developing my personal website with [nextjs](https://github.com/zeit/next.js).
 
@@ -41,3 +41,15 @@ I'm also making some experiments with CSS animations.
 **Link to work:**  
 - [GitHub](https://github.com/lasalefamine/godev.space)
 - [Demo (dev)](https://godevspace-cajaozvpyb.now.sh/)
+
+---
+
+### Day 1: January 4, 2017
+
+**Today's Progress**: Progress with Nextjs. Updating to 2.0.0-beta and adding <Link> (next/prefetch) component for prefetching pages and activate client-side routing. Also some fixes.
+
+**Thoughts:** Nice, only thing I have to struggle with is the scoped CSS. Some JSX and compilation errors to handle... That's a reason I prefer Polymer rather than React, but don't blame me please :D
+
+**Link to work:**  
+- [Revision](https://github.com/LasaleFamine/godev.space/commit/3a098d3adf99aede8e06fa19b40272bd20880e27)
+- [Demo (dev)](https://godevspace-rkldvdtpcv.now.sh)
