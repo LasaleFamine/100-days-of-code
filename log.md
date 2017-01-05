@@ -53,3 +53,15 @@ I'm also making some experiments with CSS animations.
 **Link to work:**  
 - [Revision](https://github.com/LasaleFamine/godev.space/commit/3a098d3adf99aede8e06fa19b40272bd20880e27)
 - [Demo (dev)](https://godevspace-rkldvdtpcv.now.sh)
+
+---
+
+### Day 2: January 5, 2017
+
+**Today's Progress**: Little break from my website and having fun with Web Speech APIs.
+
+**Thoughts:** Incredibly easy to understand, I think I have to build something on top of it and a Raspberry PI :rocket:
+
+**Link to work:**  
+- [GitHub](https://github.com/LasaleFamine/learn-web-speech-api)
+- Demo (nothing yet)
