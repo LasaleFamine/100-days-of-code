@@ -65,3 +65,20 @@ I'm also making some experiments with CSS animations.
 **Link to work:**  
 - [GitHub](https://github.com/LasaleFamine/learn-web-speech-api)
 - Demo (nothing yet)
+
+---
+
+### Day 3: January 6, 2017
+
+**Today's Progress**: Completed the Speech API prototype and put a demo online (thanks [now-static](https://zeit.co/blog/now-static)).  
+Get back on my website with the last adjustment before the final deploy.
+
+**Thoughts:** Is really easy to deploy live testing with ***now*** and I'm seriously thinking about get their premium plan.  
+On other hand, I need to revisit the `next/prefetch` feature of **next.js**, maybe I need to write a real React component to better testing it.
+
+**Link to work:**  
+- [Revision (Web Speech API)](https://github.com/LasaleFamine/learn-web-speech-api/commit/71e6dd3b1410d48bbddb61249d25dd6be4bff89d)
+- [Learn Web Speech API](https://learn-web-speech-api-tgcqfajvoq.now.sh)
+
+- [Revision (godev.space)](https://github.com/LasaleFamine/godev.space/commit/0135e1863e080d1c22568bd7237c413b2df22972)
+- [godev.space (Dev)](godev-space.now.sh)
