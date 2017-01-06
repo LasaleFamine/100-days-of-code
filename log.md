@@ -81,4 +81,4 @@ On other hand, I need to revisit the `next/prefetch` feature of **next.js**, may
 - [Learn Web Speech API](https://learn-web-speech-api-tgcqfajvoq.now.sh)
 
 - [Revision (godev.space)](https://github.com/LasaleFamine/godev.space/commit/0135e1863e080d1c22568bd7237c413b2df22972)
-- [godev.space (Dev)](godev-space.now.sh)
+- [godev.space (Dev)](https://godev-space.now.sh)
