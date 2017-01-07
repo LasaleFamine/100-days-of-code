@@ -82,3 +82,15 @@ On other hand, I need to revisit the `next/prefetch` feature of **next.js**, may
 
 - [Revision (godev.space)](https://github.com/LasaleFamine/godev.space/commit/0135e1863e080d1c22568bd7237c413b2df22972)
 - [godev.space (Dev)](https://godev-space.now.sh)
+
+
+### Day 4: January 7, 2017
+
+**Today's Progress**: Today is the day of [vue.js](https://vuejs.org). I'm trying the [vue-cli] for building a simple dashboard of [now](https://zeit.co/now) deployments.  
+I also fixed my little VPS to put live my godev.space website.
+
+**Thoughts:** The first impression is good. I need a deeper knowledge of the framework before talking about pros and cons. I really need to setup testing.
+
+**Link to work:**
+- [GitHub](https://github.com/lasalefamine/now-dashboard)
+- Demo (not yet)
