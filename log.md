@@ -1,34 +1,5 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 0: February 30, 2017 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
-
 ### Day 0: January 3, 2017
 
 **Today's Progress**: Start re-developing my personal website with [nextjs](https://github.com/zeit/next.js).
@@ -83,6 +54,7 @@ On other hand, I need to revisit the `next/prefetch` feature of **next.js**, may
 - [Revision (godev.space)](https://github.com/LasaleFamine/godev.space/commit/0135e1863e080d1c22568bd7237c413b2df22972)
 - [godev.space (Dev)](https://godev-space.now.sh)
 
+---
 
 ### Day 4: January 7, 2017
 
@@ -94,6 +66,8 @@ I also fixed my little VPS to put live my godev.space website.
 **Link to work:**
 - [GitHub](https://github.com/lasalefamine/now-dashboard)
 - Demo (not yet)
+
+---
 
 ### Day 5: January 8, 2017
 
