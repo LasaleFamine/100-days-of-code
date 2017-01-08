@@ -94,3 +94,15 @@ I also fixed my little VPS to put live my godev.space website.
 **Link to work:**
 - [GitHub](https://github.com/lasalefamine/now-dashboard)
 - Demo (not yet)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Realized I couldn't simply call the Zeit's Now APIs, I'm building a simple Hapi.js server for serving the web app in Vue.js and also to correctly call the Zeit's APIs.
+
+**Thoughts:** I little disappointed that I can't call directly the Zeit's APIs but I understand their reasons. By the way it's good get back and practice with Hapi.js
+
+**Link to work:**
+- [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/6a43774ed1d6fc0859f56186e244cc6190fb24de)
+- Demo (not yet)
+
+- [GitHub (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard)
