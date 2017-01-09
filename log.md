@@ -80,3 +80,14 @@ I also fixed my little VPS to put live my godev.space website.
 - Demo (not yet)
 
 - [GitHub (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard)
+
+---
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: Little stop from the ***now-dashboard*** (I think I will work on it later btw). I upgraded one of my Polymer component to a better Flexbox layout (really small changes), and also worked on a ***not public yet*** project of mine.
+
+**Thoughts:** Want to practice too much with Flexbox. I'm starting loving it.
+
+**Link to work:**
+- [Revision (polymer-youtube-feed v0.3.0)](https://github.com/LasaleFamine/polymer-youtube-feed/commit/d065cf964d11b96575182fd77c08e04a87ad94f7)
