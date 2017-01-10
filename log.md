@@ -91,3 +91,16 @@ I also fixed my little VPS to put live my godev.space website.
 
 **Link to work:**
 - [Revision (polymer-youtube-feed v0.3.0)](https://github.com/LasaleFamine/polymer-youtube-feed/commit/d065cf964d11b96575182fd77c08e04a87ad94f7)
+
+---
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Back on the dashboard after put online my website [godev.space](https://godev.space).
+
+**Thoughts:** I think I'm almost finishing with the very basic features: list of deployments and delete it (that's not implemented yet). The experience with Vue.js is really great, but I'm having trouble with unit testing.
+
+**Link to work:**
+- [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/aa558cdbfb15941b92c431ac9a015951f4341cf3)
+- [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/cb3e8d5b175afe3a9e9ccaa7ded85295232e55e3)
+- [Demo (with now!)](https://hapi-now-dashbaord-srkssrizpp.now.sh/)
