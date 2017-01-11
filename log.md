@@ -104,3 +104,16 @@ I also fixed my little VPS to put live my godev.space website.
 - [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/aa558cdbfb15941b92c431ac9a015951f4341cf3)
 - [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/cb3e8d5b175afe3a9e9ccaa7ded85295232e55e3)
 - [Demo (with now!)](https://hapi-now-dashbaord-srkssrizpp.now.sh/)
+
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Progress on [now]() dashboard. Adding the delete command with some enhancements on UX and `DELETE` method on Hapi.js API
+
+**Thoughts:** Vue.js is blazing fast also for learning. I think I will build more ***reactive interfaces*** with this great library.  
+I'm also experimenting with different linting tools in both projects (UI and API).
+
+**Link to work:**
+- [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/8f9a6f1df025a836f876ec4229cdddfac0d48899)
+- [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/3336c7946877679b2ef1249f6a0685e6452b5e51)
+- Demo - need to wait 24 'cause too much deploys in the last 24H with ***now*** :sad:
