@@ -128,4 +128,4 @@ I'm also experimenting with different linting tools in both projects (UI and API
 **Thoughts:** My plan for 2017 is to go through deep/reinforcement learning and this is the starter point.
 
 **Link to work:**
-- Nothing yet
+- [Starter guide](https://www.tensorflow.org/get_started/)
