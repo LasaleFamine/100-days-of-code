@@ -105,6 +105,7 @@ I also fixed my little VPS to put live my godev.space website.
 - [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/cb3e8d5b175afe3a9e9ccaa7ded85295232e55e3)
 - [Demo (with now!)](https://hapi-now-dashbaord-srkssrizpp.now.sh/)
 
+---
 
 ### Day 8: January 11, 2017
 
@@ -117,3 +118,14 @@ I'm also experimenting with different linting tools in both projects (UI and API
 - [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/8f9a6f1df025a836f876ec4229cdddfac0d48899)
 - [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/3336c7946877679b2ef1249f6a0685e6452b5e51)
 - Demo - need to wait 24 'cause too much deploys in the last 24H with ***now*** :sad:
+
+---
+
+### Day 9: January 12, 2017
+
+**Today's Progress**: Another pause from the dashboard (almost complete) to start learning [Tensorflow](https://github.com/tensorflow/tensorflow). Just pulled the docker image and start practice with Python and Tensorflow.
+
+**Thoughts:** My plan for 2017 is to go through deep/reinforcement learning and this is the starter point.
+
+**Link to work:**
+- Nothing yet
