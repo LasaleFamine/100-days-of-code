@@ -129,3 +129,16 @@ I'm also experimenting with different linting tools in both projects (UI and API
 
 **Link to work:**
 - [Starter guide](https://www.tensorflow.org/get_started/)
+
+---
+
+### Day 10: January 13, 2017
+
+**Today's Progress**: Last mods to API's and UI for the dashboard and push it online with a better readme on repos.
+
+**Thoughts:** The "cleaning". Better code, update linter and remove unused code. Also a better readme for the projects.
+
+**Link to work:**
+- [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/0fbde7f68dc53debf20b09c1f1d486fb87a3186b)
+- [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/20bba2d299b9f0fcf4e8b5c5818ee431906792ce)
+- [Demo](https://now-dashboard-acihatjstd.now.sh)
