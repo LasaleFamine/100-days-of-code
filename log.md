@@ -142,3 +142,16 @@ I'm also experimenting with different linting tools in both projects (UI and API
 - [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commit/0fbde7f68dc53debf20b09c1f1d486fb87a3186b)
 - [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/20bba2d299b9f0fcf4e8b5c5818ee431906792ce)
 - [Demo](https://now-dashboard-acihatjstd.now.sh)
+
+---
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: Optimize performance and UX for the dashboard. Also first beta production deploy.
+
+**Thoughts:** I'm going deeper with Vue.js and I want to go really more and more deeper!
+
+**Link to work:**
+- [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commits/master)
+- [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/deaacebacb4bf6928022d1a06f4d423442a60340)
+- [Demo (https://now-dashboard.now.sh)](https://now-dashboard.now.sh)
