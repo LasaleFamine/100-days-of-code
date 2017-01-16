@@ -155,3 +155,14 @@ I'm also experimenting with different linting tools in both projects (UI and API
 - [Revision (now-dashboard)](https://github.com/LasaleFamine/now-dashboard/commits/master)
 - [Revision (hapi-now-dashboard)](https://github.com/LasaleFamine/hapi-now-dashboard/commit/deaacebacb4bf6928022d1a06f4d423442a60340)
 - [Demo (https://now-dashboard.now.sh)](https://now-dashboard.now.sh)
+
+---
+
+### Day 12-13: January 15-16, 2017
+
+**Today's Progress**: Just fall into ***GO***. Practicing with the getting started a making some toys.
+
+**Thoughts:** Reminds me the times of C at school :D I think could be also useful for my JavaScript knowledge to learn GO.
+
+**Link to work:**
+- [goquote](https://github.com/LasaleFamine/goquote)
