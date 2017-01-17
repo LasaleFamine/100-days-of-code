@@ -166,3 +166,14 @@ I'm also experimenting with different linting tools in both projects (UI and API
 
 **Link to work:**
 - [goquote](https://github.com/LasaleFamine/goquote)
+
+---
+
+### Day 14: January 17, 2017
+
+**Today's Progress**: Progress with ***Go***. Building a basic Web API for an hypothetic TODO application.
+
+**Thoughts:** I like the compilation time although my code is really small, it's about the process, the exact opposite to JavaScript btw :eggplant:
+
+**Link to work:**
+- [go-todo-api](https://github.com/LasaleFamine/go-todo-api)
