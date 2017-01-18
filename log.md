@@ -177,3 +177,14 @@ I'm also experimenting with different linting tools in both projects (UI and API
 
 **Link to work:**
 - [go-todo-api](https://github.com/LasaleFamine/go-todo-api)
+
+---
+
+### Day 15: January 18, 2017
+
+**Today's Progress**: Working on the UI of the go-todo-api just to make everything work as expected in a to-do application. Vanilla js and [clab-ui-components](https://github.com/contactlab/contactlab-ui-components)
+
+**Thoughts:** Today it's just about testing something which I contributed and it's awesome to see our web-components written in **Polymer** are working with charm in a ***vanilla js website-like***.
+
+**Link to work:**
+- [Revision (go-todo-api)](https://github.com/LasaleFamine/go-todo-api/commit/21794d5ca0b219296e94991a5c20703bbca38a6c)
