@@ -188,3 +188,14 @@ I'm also experimenting with different linting tools in both projects (UI and API
 
 **Link to work:**
 - [Revision (go-todo-api)](https://github.com/LasaleFamine/go-todo-api/commit/21794d5ca0b219296e94991a5c20703bbca38a6c)
+
+---
+
+### Day 16-17: January 19-20, 2017
+
+**Today's Progress**: Progress with ***Go*** routing and better UI. Almost done with this experiment.
+
+**Thoughts:** I'm learning a lot about ***Go*** and I'm excited to learn more.
+
+**Link to work:**
+- [Revision (go-todo-api)](https://github.com/LasaleFamine/go-todo-api/commit/8343799a5667b98b020bac155265b8014df1f8cd)
