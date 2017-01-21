@@ -199,3 +199,15 @@ I'm also experimenting with different linting tools in both projects (UI and API
 
 **Link to work:**
 - [Revision (go-todo-api)](https://github.com/LasaleFamine/go-todo-api/commit/8343799a5667b98b020bac155265b8014df1f8cd)
+
+---
+
+### Day 18: January 21, 2017
+
+**Today's Progress**: Pause from ***Go*** after ended a little (but working) UI for the to-do application, with a live demo. I'm coming back to **Tensorflow** and ***Machine Learning*** :robot:
+
+**Thoughts:** Come back to Python is every time a pleasure, a big one if is for Machine Learning. I started with some overwhelming tutorials, but now I think I found my way.
+
+**Link to work:**
+- [(go-todo-api)](https://github.com/lasalefamine/go-todo-api)
+- [(learn-machine-learning)](https://github.com/lasalefamine/learn-machine-learning)
