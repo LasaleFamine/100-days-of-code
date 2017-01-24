@@ -211,3 +211,20 @@ I'm also experimenting with different linting tools in both projects (UI and API
 **Link to work:**
 - [(go-todo-api)](https://github.com/lasalefamine/go-todo-api)
 - [(learn-machine-learning)](https://github.com/lasalefamine/learn-machine-learning)
+
+---
+
+### January 22 - Pause
+
+---
+
+### Day 19-20: January 23-24, 2017
+
+**Today's Progress**: Just a little deviation to my JavaScript crafting and releasing a new ***nodejs*** module for `runnable exports`. After that I'm working on a ***codelabs*** (by Google): **TensorFlow for Poets**
+
+**Thoughts:** I forked the idea of the module from another great module, but I revisited to ES2015 the entire code and also wrote some tests. Used Coveralls for the first time!  
+The ***codelab*** btw seems really interesting.
+
+**Link to work:**
+- [(runnable-exports)](https://github.com/lasalefamine/runnable-exports)
+- [(tensorflow-for-poets)]()
