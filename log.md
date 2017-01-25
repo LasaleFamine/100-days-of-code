@@ -228,3 +228,14 @@ The ***codelab*** btw seems really interesting.
 **Link to work:**
 - [(runnable-exports)](https://github.com/lasalefamine/runnable-exports)
 - [(tensorflow-for-poets)]()
+
+---
+
+### Day 21: January 25, 2017
+
+**Today's Progress**: Since I can't handle (just for now) a great ***TensorFlow*** training, I switched to a project of mine that is not public yet (but will be soon). But of course I can say is a Polymer Progressive Web App :rocket:
+
+**Thoughts:** I need to put a VM or use Docker with my Windows machine for TensorFlow 'cause with the MBP I really can't handle this.
+
+**Link to work:**
+- [Secret project (not yet...)]
