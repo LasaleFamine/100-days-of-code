@@ -239,3 +239,12 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [Secret project (not yet...)]
+
+### Day 22-23: January 26-27, 2017
+
+**Today's Progress**: The 22th just worked on my secret project written in Polymer. Today stop from the project and start with a new challenge: [FreeRadius]() and networking.
+
+**Thoughts:** This new argument will be a real pain in the ass but I want and I need to know much more about networking and Radius management. But for today is just about set up the enviroment for development and learning.
+
+**Link to work:**
+- [Nothing yet]
