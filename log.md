@@ -266,3 +266,14 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [Nothing yet]
+
+---
+
+### Day 25: January 30, 2017
+
+**Today's Progress**: Today a little contribution to [AVA](https://github.com/avajs/ava)
+
+**Thoughts:** Nice, could be a good start to contribute actively to open-source projects.
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1215)
