@@ -277,3 +277,14 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1215)
+
+---
+
+### Day 25: January 31, 2017
+
+**Today's Progress**: Updated the PR on AVA
+
+**Thoughts:** Nice tip from the maintainer about the PR I made.
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1215)
