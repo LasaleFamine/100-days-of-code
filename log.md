@@ -280,7 +280,7 @@ The ***codelab*** btw seems really interesting.
 
 ---
 
-### Day 25: January 31, 2017
+### Day 26: January 31, 2017
 
 **Today's Progress**: Updated the PR on AVA
 
