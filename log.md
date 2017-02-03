@@ -288,3 +288,16 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1215)
+
+
+---
+
+### Day 27-28-29: February 1-2-3, 2017
+
+**Today's Progress**: Completed the PR on AVA (and AVA also released a new version :rocket:), worked on my ***secret project***, and today I updated a Polymer component of mine
+
+**Thoughts:** First contribution completed! This is a great achievement. I will take another issue soon.
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1215)
+- [polymer-twitter-timeline](https://github.com/LasaleFamine/polymer-twitter-timeline/pull/5)
