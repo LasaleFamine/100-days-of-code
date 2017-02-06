@@ -301,3 +301,18 @@ The ***codelab*** btw seems really interesting.
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1215)
 - [polymer-twitter-timeline](https://github.com/LasaleFamine/polymer-twitter-timeline/pull/5)
+
+---
+
+### February 4 - Pause
+
+---
+
+### Day 30-31: February 5-6, 2017
+
+**Today's Progress**: Start a new PR for AVA and playing with [nightmare.js](http://www.nightmarejs.org/)
+
+**Thoughts:** Figuring out how to work good with Electron and headless nightmare.js
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1234)
