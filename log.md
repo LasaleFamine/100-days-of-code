@@ -316,3 +316,15 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1234)
+
+---
+
+### Day 32: February 7, 2017
+
+**Today's Progress**: Figuring out how to complete the PR and published a new - dead simple - NPM package.
+
+**Thoughts:** The PR is simple, but I need some feedbacks from the maintainers to move forward. 
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1234)
+- [key-as-array](https://github.com/lasalefamine/key-as-array)
