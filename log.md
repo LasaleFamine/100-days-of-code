@@ -328,3 +328,15 @@ The ***codelab*** btw seems really interesting.
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1234)
 - [key-as-array](https://github.com/lasalefamine/key-as-array)
+
+---
+
+### Day 33-34-35: February 8-9-10, 2017
+
+**Today's Progress**: Other two PRs completed for AVA. Also playing with [scrapeIt](https://github.com/IonicaBizau/scrape-it) today.
+
+**Thoughts:** scrapeIt is awesome. Finally I think I have found the best scraping tool for my personal needs. 
+
+**Link to work:**
+- [AVA PR](https://github.com/avajs/ava/pull/1234)
+- [AVA PR 2](https://github.com/avajs/ava/pull/1247)
