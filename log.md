@@ -339,4 +339,19 @@ The ***codelab*** btw seems really interesting.
 
 **Link to work:**
 - [AVA PR](https://github.com/avajs/ava/pull/1234)
-- [AVA PR 2](https://github.com/avajs/ava/pull/1247)
+
+---
+
+### February 11 - Pause
+
+---
+
+### Day 36-37-38: February 12-13-14, 2017
+
+**Today's Progress**: Played a lot with the awesome `scrape-it` and worked on my personal project with it. Also start learning much more about Functional Programming.
+
+**Thoughts:** This start with Functional Programming is making me really excited about how to avoid some bad mistakes during deloping. 
+
+**Link to work:**
+
+- Nothing yet
