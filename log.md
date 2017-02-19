@@ -355,3 +355,16 @@ The ***codelab*** btw seems really interesting.
 **Link to work:**
 
 - Nothing yet
+
+---
+
+### Day 39-40-41-42-43: February 15-16-17-18-19, 2017
+
+**Today's Progress**: Worked so much with `scrape-it`. I made a little Node module to handle simply a Telegram channel, built on top of Telebot.
+Also made a simple but enjoyable real bot for Telegram.
+
+**Thoughts:** Deep into Nodejs these days. I'm having so much fun but I think I want to try something else early. Maybe Swift!
+
+**Link to work:**
+
+- [channel-telegram-bot](https://github.com/LasaleFamine/channel-telegram-bot)
