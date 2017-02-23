@@ -368,3 +368,19 @@ Also made a simple but enjoyable real bot for Telegram.
 **Link to work:**
 
 - [channel-telegram-bot](https://github.com/LasaleFamine/channel-telegram-bot)
+
+---
+
+### February 20-21-22 - Pause (some problems)
+
+---
+
+### Day 44: February 23, 2017
+
+**Today's Progress**: After some days of pause (and brainstorming) I got I need to rewrite a bot of mine. But I will do it after creating a simple rèsume as HTML app!
+
+**Thoughts:** I wish I could be said to be rested after a few days off, but it's not the case. I will restart slowly, but I will.
+
+**Link to work:**
+
+Nothing yet!
