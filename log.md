@@ -384,3 +384,16 @@ Also made a simple but enjoyable real bot for Telegram.
 **Link to work:**
 
 Nothing yet!
+
+---
+
+### Day 45-46-47: February 24-25-26, 2017
+
+**Today's Progress**: Initially I thought to Nuxt.js to build the resume, but I think should be offline-ready, so I will build it with Polymer and service workers. 
+Meanwhile I'm building a skeleton for a Polymer-Webpack application.
+
+**Thoughts:** Finally a good time to learn service workers.
+
+**Link to work:**
+
+[polymer-webpack-skeleton](https://github.com/lasalefamine/polymer-webpack-skeleton)
