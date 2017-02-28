@@ -397,3 +397,16 @@ Meanwhile I'm building a skeleton for a Polymer-Webpack application.
 **Link to work:**
 
 [polymer-webpack-skeleton](https://github.com/lasalefamine/polymer-webpack-skeleton)
+
+---
+ 
+### Day 48-49: February 27-28, 2017
+
+**Today's Progress**: Studying a way to include [postcss]() within the bundle of Polymer-Webpack for development and production.
+Also wrote a little script in Nodejs to upload some data to a mySQL db.
+
+**Thoughts:** Could be difficult, but maybe not. Tomorrow I will do some test with postcss and Webpack.
+
+**Link to work:**
+
+Nothing yet.
