@@ -410,3 +410,15 @@ Also wrote a little script in Nodejs to upload some data to a mySQL db.
 **Link to work:**
 
 Nothing yet.
+
+--- 
+ 
+### Day 50-51-52-53: March 1-2-3-4, 2017
+
+**Today's Progress**: Maybe found a solution for `postcss` and Polymer! At least we can develop both JS and POSTCSS with one single command. Also worked on another little scraper with `scrape-it`.
+
+**Thoughts:** PostCSS injected within the `style-module.html` that is imported within the `component.html`. Seems awesome!
+
+**Link to work:**
+
+- [PR polymer-skeleton](https://github.com/PolymerX/polymer-skeleton/pull/5)
