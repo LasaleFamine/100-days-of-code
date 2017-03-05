@@ -422,3 +422,15 @@ Nothing yet.
 **Link to work:**
 
 - [PR polymer-skeleton](https://github.com/PolymerX/polymer-skeleton/pull/5)
+
+--- 
+ 
+### Day 54: March 5, 2017
+
+**Today's Progress**: Created a new NodeJs module that will be useful for another project of mine.
+
+**Thoughts:** Learned more about NodeJs `fs.` object.
+
+**Link to work:**
+
+- [readdir-life](https://github.com/lasalefamine/readdir-life)
