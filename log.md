@@ -434,3 +434,19 @@ Nothing yet.
 **Link to work:**
 
 - [readdir-life](https://github.com/lasalefamine/readdir-life)
+
+---
+
+## Pause
+
+---
+
+### Day 55: March 24, 2017
+
+**Today's Progress**: Start learning [Chimp](https://github.com/xolvio/chimp) for automated tests.
+
+**Thoughts:** This is awesome guys, the best automated tools I have ever seen. I hope the community will focus on it.
+
+**Link to work:**
+
+- [chimp-cucumber](https://github.com/lasalefamine/chimp-cucumber)
